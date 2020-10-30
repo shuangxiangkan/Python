@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfcb41f4-4b54-42cb-a13a-83a65808c799" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tkinter$DCell_alltoall_time.coverage" NAME="DCell-alltoall-time Coverage Results" MODIFIED="1573029708645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/文件(2)/新建文件夹/DCell-all-to-all" />
+    <SUITE FILE_PATH="coverage/tkinter$tkhello3.coverage" NAME="tkhello3 Coverage Results" MODIFIED="1573181322364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$pfaGUI3.coverage" NAME="pfaGUI3 Coverage Results" MODIFIED="1573529099864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$listdir3.coverage" NAME="listdir3 Coverage Results" MODIFIED="1574130522646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05" />
+    <SUITE FILE_PATH="coverage/tkinter$listbox.coverage" NAME="listbox Coverage Results" MODIFIED="1573271306674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$contrast_test.coverage" NAME="contrast-test Coverage Results" MODIFIED="1574074932308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$listdir.coverage" NAME="listdir Coverage Results" MODIFIED="1573703008525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$DCell_disjoint_cpu.coverage" NAME="DCell-disjoint-cpu Coverage Results" MODIFIED="1573457666209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/不交路/cpu-time" />
+    <SUITE FILE_PATH="coverage/tkinter$tkhello4.coverage" NAME="tkhello4 Coverage Results" MODIFIED="1573182610179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$bcdc_disjoint_cpu.coverage" NAME="bcdc-disjoint-cpu Coverage Results" MODIFIED="1573458742502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验结果/report(1)/report/bcdc(2)/bcdc不交路/实验" />
+    <SUITE FILE_PATH="coverage/tkinter$test.coverage" NAME="test Coverage Results" MODIFIED="1574135616746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$fattree_alltoall_time.coverage" NAME="fattree-alltoall-time Coverage Results" MODIFIED="1573031648028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验结果/文件" />
+    <SUITE FILE_PATH="coverage/tkinter$DCell_disjoint_time.coverage" NAME="DCell-disjoint-time Coverage Results" MODIFIED="1573457298282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/不交路/cpu-time" />
+    <SUITE FILE_PATH="coverage/tkinter$variableTest.coverage" NAME="variableTest Coverage Results" MODIFIED="1573787552302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$fault_tolerance_client.coverage" NAME="fault-tolerance-client Coverage Results" MODIFIED="1573048648442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/1号机/1号机172.16.4.3" />
+    <SUITE FILE_PATH="coverage/tkinter$tkhello1.coverage" NAME="tkhello1 Coverage Results" MODIFIED="1573007607835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$fault_tolerance_client2.coverage" NAME="fault-tolerance-client2 Coverage Results" MODIFIED="1573090157887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/1号机/1号机172.16.4.3" />
+    <SUITE FILE_PATH="coverage/tkinter$fault_tolerance_client___.coverage" NAME="fault-tolerance-client - 副本 Coverage Results" MODIFIED="1573048644982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/1号机/1号机172.16.4.3" />
+    <SUITE FILE_PATH="coverage/tkinter$tkhello2.coverage" NAME="tkhello2 Coverage Results" MODIFIED="1573126001791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$DCell_alltoall_cpu.coverage" NAME="DCell-alltoall-cpu Coverage Results" MODIFIED="1573030931885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/文件(2)/新建文件夹/DCell-all-to-all" />
+    <SUITE FILE_PATH="coverage/tkinter$lambdaTest.coverage" NAME="lambdaTest Coverage Results" MODIFIED="1573356120768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$packtest.coverage" NAME="packtest Coverage Results" MODIFIED="1573180946070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$bcdc_disjoint_time.coverage" NAME="bcdc-disjoint-time Coverage Results" MODIFIED="1573458513597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/樊老师项目/实验结果/report(1)/report/bcdc(2)/bcdc不交路/实验" />
+    <SUITE FILE_PATH="coverage/tkinter$pfaGUI2.coverage" NAME="pfaGUI2 Coverage Results" MODIFIED="1573528884412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$ListboxAndScrollbar.coverage" NAME="ListboxAndScrollbar Coverage Results" MODIFIED="1574133830523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pfaGUI3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrast-test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05/listdir3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1843">
+              <caret line="99" column="17" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="17" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListboxAndScrollbar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listdir.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listbox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lambdaTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05/pfaGUI3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#23#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tkhello4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/文件(2)/新建文件夹/DCell-all-to-all/DCell-alltoall-time.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/文件(2)/新建文件夹/DCell-all-to-all/DCell-alltoall-cpu.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验结果/文件/fattree-alltoall-time.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/1号机/1号机172.16.4.3/fault-tolerance-client - 副本.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/1号机/1号机172.16.4.3/fault-tolerance-client2.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/1号机/1号机172.16.4.3/fault-tolerance-client.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/1号机/12号机/broadcast-server1.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/1号机/12号机/broadcast-server2.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案1/1号机/bcdc-disjoint-client1.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/1号机/bcdc-disjoint-client1.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/1号机/bcdc-disjoint-client2.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/5号机/bcdc-disjoint-server.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/6号机/bcdc-disjoint-server.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/7号机/bcdc-disjoint-server.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/8号机/bcdc-disjoint-server.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/1号机/bcdc-disjoint-client3.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/1号机/bcdc-disjoint-client4.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/12号机/bcdc-disjoint-server1.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/12号机/bcdc-disjoint-server2.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/bcdc不交路/不交路方案1/12号机/bcdc-disjoint-server1.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/bcdc不交路/不交路方案1/12号机/bcdc-disjoint-server2.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/1号机/DCell-disjoint-client1.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/1号机/DCell-disjoint-client2.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/4号机/bcdc-disjoint-server1.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/4号机/bcdc-disjoint-server2.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/1号机/DCell-disjoint-client1.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/1号机/DCell-disjoint-client2.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/1号机/DCell-disjoint-client3.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/1号机/DCell-disjoint-client4.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/3号机/DCell-disjoint-server.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/4号机/DCell-disjoint-server.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/7号机/DCell-disjoint-server.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/10号机/DCell-disjoint-server.py" />
+        <option value="$PROJECT_DIR$/tkhello2.py" />
+        <option value="$PROJECT_DIR$/packtest.py" />
+        <option value="$PROJECT_DIR$/tkhello3.py" />
+        <option value="$PROJECT_DIR$/tkhello4.py" />
+        <option value="$PROJECT_DIR$/listbox.py" />
+        <option value="$PROJECT_DIR$/lambdaTest.py" />
+        <option value="$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05/pfaGUI3.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/不交路/cpu-time/DCell-disjoint-time.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/不交路/cpu-time/DCell-disjoint-cpu.py" />
+        <option value="$USER_HOME$/Desktop/樊老师项目/实验结果/report(1)/report/bcdc(2)/bcdc不交路/实验/bcdc-disjoint-cpu.py" />
+        <option value="$PROJECT_DIR$/pfaGUI2.py" />
+        <option value="$PROJECT_DIR$/pfaGUI3.py" />
+        <option value="$PROJECT_DIR$/listdir.py" />
+        <option value="$PROJECT_DIR$/variableTest.py" />
+        <option value="$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05/listdir3.py" />
+        <option value="$PROJECT_DIR$/contrast-test.py" />
+        <option value="$PROJECT_DIR$/ListboxAndScrollbar.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-258" />
+    <option name="y" value="6" />
+    <option name="width" value="1230" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tkinter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tkinter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/python/Automate the Boring Stuff with Python-Practical Programming for Total Beginners/working with excel spreadsheets" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="ListboxAndScrollbar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListboxAndScrollbar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contrast-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contrast-test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listdir3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05/listdir3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variableTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tkinter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variableTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.ListboxAndScrollbar" />
+        <item itemvalue="Python.listdir3" />
+        <item itemvalue="Python.contrast-test" />
+        <item itemvalue="Python.variableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcb41f4-4b54-42cb-a13a-83a65808c799" name="Default Changelist" comment="" />
+      <created>1573002937542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573002937542</updated>
+      <workItem from="1573002938999" duration="16341000" />
+      <workItem from="1573088984945" duration="2793000" />
+      <workItem from="1573091814297" duration="4648000" />
+      <workItem from="1573125372103" duration="8083000" />
+      <workItem from="1573178745622" duration="5767000" />
+      <workItem from="1573265964223" duration="6021000" />
+      <workItem from="1573355909467" duration="285000" />
+      <workItem from="1573437801493" duration="6263000" />
+      <workItem from="1573456112243" duration="2877000" />
+      <workItem from="1573524404039" duration="6004000" />
+      <workItem from="1573545921095" duration="42000" />
+      <workItem from="1573696587234" duration="5225000" />
+      <workItem from="1573785278009" duration="4419000" />
+      <workItem from="1573872102415" duration="5238000" />
+      <workItem from="1573906798200" duration="17000" />
+      <workItem from="1574043697139" duration="5734000" />
+      <workItem from="1574067278995" duration="5643000" />
+      <workItem from="1574129933260" duration="6245000" />
+      <workItem from="1574160749305" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91842000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16087309" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935154" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5004042" side_tool="true" weight="0.3351852" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4995958" weight="0.39814815" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32935154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="4" side_tool="true" weight="0.26229507" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/10号机/broadcast-server2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/8号机/bcdc-disjoint-server1.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/5号机/bcdc-disjoint-server1.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/5号机/bcdc-disjoint-server.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/6号机/bcdc-disjoint-server.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/7号机/bcdc-disjoint-server.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/8号机/bcdc-disjoint-server.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/1号机/bcdc-disjoint-client1.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/1号机/bcdc-disjoint-client2.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/1号机/bcdc-disjoint-client4.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/不交路方案2/1号机/bcdc-disjoint-client3.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/1号机/bcdc-disjoint-client2.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/12号机/bcdc-disjoint-server1.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/12号机/bcdc-disjoint-server2.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/bcdc不交路/不交路方案1/12号机/bcdc-disjoint-server2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/bcdc不交路/不交路方案1/12号机/bcdc-disjoint-server1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/4号机/bcdc-disjoint-server2.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/1号机/DCell-disjoint-client2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/1号机/DCell-disjoint-client1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案1/4号机/bcdc-disjoint-server1.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/6号机/bcdc-disjoint-server.py" />
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/1号机/DCell-disjoint-client1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/3号机/DCell-disjoint-server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/1号机/DCell-disjoint-client2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/4号机/DCell-disjoint-server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/1号机/DCell-disjoint-client3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/7号机/DCell-disjoint-server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/10号机/DCell-disjoint-server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/DCell不交路/不交路方案2/1号机/DCell-disjoint-client4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/bcdc不交路/不交路方案1/1号机/bcdc-disjoint-client2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1881">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验代码/disjointPaths/不交路/bcdc不交路/不交路方案1/1号机/bcdc-disjoint-client1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkhello3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/不交路/cpu-time/DCell-disjoint-cpu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验结果/Dcell/不交路/cpu-time/DCell-disjoint-time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验结果/report(1)/report/bcdc(2)/bcdc不交路/实验/bcdc-disjoint-cpu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/樊老师项目/实验结果/report(1)/report/bcdc(2)/bcdc不交路/实验/bcdc-disjoint-time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkhello2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variableTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pfaGUI2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="1174" column="8" selection-start-line="1174" selection-start-column="8" selection-end-line="1174" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pfaGUI3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrast-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05/listdir3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="99" column="17" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="17" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListboxAndScrollbar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listdir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambdaTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/python/《Python核心编程%28第三版%29》（高清中文版PDF%2B高清英文版PDF%2B源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/《Python核心编程(第三版)》（高清中文版PDF+高清英文版PDF+源代码）/Python核心编程（第3版）源代码/ch05/pfaGUI3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#23#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkhello4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
