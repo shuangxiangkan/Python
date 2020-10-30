@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="114b4a84-95ac-48a5-b161-845d6f73a697" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Test$prodcons.coverage" NAME="prodcons Coverage Results" MODIFIED="1559807132669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$entry_test.coverage" NAME="entry_test Coverage Results" MODIFIED="1559309572393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$button_test.coverage" NAME="button_test Coverage Results" MODIFIED="1559308252882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$example_server_socket.coverage" NAME="example_server_socket Coverage Results" MODIFIED="1560587008071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_test_client_py.coverage" NAME="pytest in test_client.py Coverage Results" MODIFIED="1557150678887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$table_layout.coverage" NAME="table_layout Coverage Results" MODIFIED="1559476341129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1572572453835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Test$respond_all.coverage" NAME="respond_all Coverage Results" MODIFIED="1559477394431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$tcp_socket_test.coverage" NAME="tcp_socket_test Coverage Results" MODIFIED="1556714549367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$socket_test.coverage" NAME="socket_test Coverage Results" MODIFIED="1554813867995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$exe_end.coverage" NAME="exe_end Coverage Results" MODIFIED="1559985937540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$event_test.coverage" NAME="event_test Coverage Results" MODIFIED="1560345144121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1561105461269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Test$tsTclnt.coverage" NAME="tsTclnt Coverage Results" MODIFIED="1557134571796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$tsUserv.coverage" NAME="tsUserv Coverage Results" MODIFIED="1557215844429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$tsTserv.coverage" NAME="tsTserv Coverage Results" MODIFIED="1557149998545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$Listbox3.coverage" NAME="Listbox3 Coverage Results" MODIFIED="1559391999715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$tkhello1.coverage" NAME="tkhello1 Coverage Results" MODIFIED="1559306806462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$20185227018control.coverage" NAME="20185227018control Coverage Results" MODIFIED="1560780588505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Test$server_socket_test.coverage" NAME="server_socket_test Coverage Results" MODIFIED="1556798089846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_test_scroll_py.coverage" NAME="pytest in test_scroll.py Coverage Results" MODIFIED="1559387184978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$Enter_leave_test.coverage" NAME="Enter_leave_test Coverage Results" MODIFIED="1559477209527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$text_test.coverage" NAME="text_test Coverage Results" MODIFIED="1559311381636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$checkbutton_test.coverage" NAME="checkbutton_test Coverage Results" MODIFIED="1559388715303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$json_test2.coverage" NAME="json_test2 Coverage Results" MODIFIED="1560604445089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$client_control.coverage" NAME="client_control Coverage Results" MODIFIED="1561087085839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Test$datetime_test.coverage" NAME="datetime_test Coverage Results" MODIFIED="1559788256846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$tcp_server_test.coverage" NAME="tcp_server_test Coverage Results" MODIFIED="1557232121297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$tkhello2.coverage" NAME="tkhello2 Coverage Results" MODIFIED="1559221119565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$text_test2.coverage" NAME="text_test2 Coverage Results" MODIFIED="1559386538617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$server_test.coverage" NAME="server_test Coverage Results" MODIFIED="1557403554478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test" />
+    <SUITE FILE_PATH="coverage/Test$myThread.coverage" NAME="myThread Coverage Results" MODIFIED="1557668813558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1560260552480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$node.coverage" NAME="node Coverage Results" MODIFIED="1560868715932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Test$mtsleepE.coverage" NAME="mtsleepE Coverage Results" MODIFIED="1557667667227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$rlock_test.coverage" NAME="rlock_test Coverage Results" MODIFIED="1560343815454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$tsUclnt.coverage" NAME="tsUclnt Coverage Results" MODIFIED="1557215823510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$onethr.coverage" NAME="onethr Coverage Results" MODIFIED="1557650266050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$lock.coverage" NAME="lock Coverage Results" MODIFIED="1560343599695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$area.coverage" NAME="area Coverage Results" MODIFIED="1555077912112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$condition_test.coverage" NAME="condition_test Coverage Results" MODIFIED="1560346610336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$time_test.coverage" NAME="time_test Coverage Results" MODIFIED="1560858824011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$text_scroll.coverage" NAME="text_scroll Coverage Results" MODIFIED="1559387875261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$Listbox2.coverage" NAME="Listbox2 Coverage Results" MODIFIED="1559482083033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$mtsleepC.coverage" NAME="mtsleepC Coverage Results" MODIFIED="1557665025096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_jointtest1_py.coverage" NAME="pytest in jointtest1.py Coverage Results" MODIFIED="1557664915590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$socket.coverage" NAME="socket Coverage Results" MODIFIED="1554813367942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$udp_socket__1_.coverage" NAME="udp_socket (1) Coverage Results" MODIFIED="1556711121090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1556712650289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$table_test.coverage" NAME="table_test Coverage Results" MODIFIED="1559475330508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$normal.coverage" NAME="normal Coverage Results" MODIFIED="1560261380348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$Mouse_click.coverage" NAME="Mouse_click Coverage Results" MODIFIED="1559476735850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$spinbox_test.coverage" NAME="spinbox_test Coverage Results" MODIFIED="1559392243622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1557664939282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$prodcons__1_.coverage" NAME="prodcons (1) Coverage Results" MODIFIED="1559957508247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$20185227018.coverage" NAME="20185227018 Coverage Results" MODIFIED="1560771747943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Test$tkhello4.coverage" NAME="tkhello4 Coverage Results" MODIFIED="1559222965022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$screenshot.coverage" NAME="screenshot Coverage Results" MODIFIED="1559995738005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/camera" />
+    <SUITE FILE_PATH="coverage/Test$Label_test.coverage" NAME="Label_test Coverage Results" MODIFIED="1559307939394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$tree_test.coverage" NAME="tree_test Coverage Results" MODIFIED="1559475721723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$Menu_mouse.coverage" NAME="Menu_mouse Coverage Results" MODIFIED="1559474626042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$const.coverage" NAME="const Coverage Results" MODIFIED="1555077071161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$testserver.coverage" NAME="testserver Coverage Results" MODIFIED="1557821254861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$exampe_client_socket.coverage" NAME="exampe_client_socket Coverage Results" MODIFIED="1556802691505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$listdir.coverage" NAME="listdir Coverage Results" MODIFIED="1559224581740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$Frame_test.coverage" NAME="Frame_test Coverage Results" MODIFIED="1559475326497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$mtsleepA.coverage" NAME="mtsleepA Coverage Results" MODIFIED="1557651599212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$20185227018node.coverage" NAME="20185227018node Coverage Results" MODIFIED="1560905146081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/高性能作业/2" />
+    <SUITE FILE_PATH="coverage/Test$node_3_.coverage" NAME="node(3) Coverage Results" MODIFIED="1561105650727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/Test$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1559954499082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$file_directory_test.coverage" NAME="file_directory_test Coverage Results" MODIFIED="1559484451484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$get_text.coverage" NAME="get_text Coverage Results" MODIFIED="1559046723369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
+    <SUITE FILE_PATH="coverage/Test$threadDemo.coverage" NAME="threadDemo Coverage Results" MODIFIED="1555162131526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$pc.coverage" NAME="pc Coverage Results" MODIFIED="1559807523387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_joint_test1_py.coverage" NAME="pytest in joint_test1.py Coverage Results" MODIFIED="1557664819156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$entry_test2.coverage" NAME="entry_test2 Coverage Results" MODIFIED="1559309866197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_joint_test1_test.coverage" NAME="pytest for joint_test1.test Coverage Results" MODIFIED="1557664480340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$Absolute_layout.coverage" NAME="Absolute_layout Coverage Results" MODIFIED="1559475950595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$radiobutton_test.coverage" NAME="radiobutton_test Coverage Results" MODIFIED="1559390618062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$server_node.coverage" NAME="server_node Coverage Results" MODIFIED="1561087074112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Test$re_test1.coverage" NAME="re_test1 Coverage Results" MODIFIED="1558697409753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_test" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_joint_test1_test_join.coverage" NAME="pytest for joint_test1.test_join Coverage Results" MODIFIED="1557664573906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$Relative_layout.coverage" NAME="Relative_layout Coverage Results" MODIFIED="1559476101186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$mtfacfib.coverage" NAME="mtfacfib Coverage Results" MODIFIED="1557669559189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$mtsleepB.coverage" NAME="mtsleepB Coverage Results" MODIFIED="1557652963528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$test.coverage" NAME="test Coverage Results" MODIFIED="1570245629511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$Mouse_mov.coverage" NAME="Mouse_mov Coverage Results" MODIFIED="1559476985110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1560566781786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$client_socket_test.coverage" NAME="client_socket_test Coverage Results" MODIFIED="1556798115079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$control.coverage" NAME="control Coverage Results" MODIFIED="1560858728767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Test$client_test.coverage" NAME="client_test Coverage Results" MODIFIED="1557887205151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$checkbutton2.coverage" NAME="checkbutton2 Coverage Results" MODIFIED="1559390199176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$button_entry.coverage" NAME="button_entry Coverage Results" MODIFIED="1559310101166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$udp_server_test.coverage" NAME="udp_server_test Coverage Results" MODIFIED="1557219675423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$compute.coverage" NAME="compute Coverage Results" MODIFIED="1560759845357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+    <SUITE FILE_PATH="coverage/Test$json_test.coverage" NAME="json_test Coverage Results" MODIFIED="1560604441294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_thread_join1_py.coverage" NAME="pytest in thread_join1.py Coverage Results" MODIFIED="1557664885907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_test_server_py.coverage" NAME="pytest in test_server.py Coverage Results" MODIFIED="1557150089648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket_test" />
+    <SUITE FILE_PATH="coverage/Test$Tkinter_test.coverage" NAME="Tkinter_test Coverage Results" MODIFIED="1559215250835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test$Combobox_test.coverage" NAME="Combobox_test Coverage Results" MODIFIED="1559482171367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$udp_socket.coverage" NAME="udp_socket Coverage Results" MODIFIED="1556372301020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/socket" />
+    <SUITE FILE_PATH="coverage/Test$control_1_.coverage" NAME="control(1) Coverage Results" MODIFIED="1561105978710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/Test$tkhello3.coverage" NAME="tkhello3 Coverage Results" MODIFIED="1559221350096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$Listbox1.coverage" NAME="Listbox1 Coverage Results" MODIFIED="1559482068933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+    <SUITE FILE_PATH="coverage/Test$queue_test.coverage" NAME="queue_test Coverage Results" MODIFIED="1560347291793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread_test" />
+    <SUITE FILE_PATH="coverage/Test$Menu_test.coverage" NAME="Menu_test Coverage Results" MODIFIED="1559474355447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/20185227018node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="20" selection-start-line="5" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/client_control.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/hosts.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/server_node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/compute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/20185227018.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="16" selection-end-line="155" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tkinter_test/spinbox_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Menu_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Menu_mouse.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Combobox_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Frame_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/table_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/tree_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Absolute_layout.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Relative_layout.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/table_layout.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Mouse_click.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Mouse_mov.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/Enter_leave_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/respond_all.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/file_directory_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/json_test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/test.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/datetime_test.py" />
+        <option value="$PROJECT_DIR$/thread_test/prodcons.py" />
+        <option value="$PROJECT_DIR$/thread_test/pc.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/test2.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/test3.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/prodcons.py" />
+        <option value="$PROJECT_DIR$/Tkinter_test/lock_test.py" />
+        <option value="$PROJECT_DIR$/thread_test/exe_end.py" />
+        <option value="$PROJECT_DIR$/camera/screenshot.py" />
+        <option value="$PROJECT_DIR$/thread_test/test2.py" />
+        <option value="$PROJECT_DIR$/thread_test/normal.py" />
+        <option value="$PROJECT_DIR$/thread_test/lock.py" />
+        <option value="$PROJECT_DIR$/thread_test/rlock_test.py" />
+        <option value="$PROJECT_DIR$/thread_test/event_test.py" />
+        <option value="$PROJECT_DIR$/thread_test/condition_test.py" />
+        <option value="$PROJECT_DIR$/thread_test/queue_test.py" />
+        <option value="$PROJECT_DIR$/thread_test/test.py" />
+        <option value="$PROJECT_DIR$/thread_test/test1.py" />
+        <option value="$PROJECT_DIR$/json_test.py" />
+        <option value="$PROJECT_DIR$/homework/20185227018control.py" />
+        <option value="$PROJECT_DIR$/homework/20185227018node.py" />
+        <option value="$PROJECT_DIR$/time_test.py" />
+        <option value="$PROJECT_DIR$/homework/control.py" />
+        <option value="$PROJECT_DIR$/homework/node.py" />
+        <option value="$PROJECT_DIR$/homework/compute.py" />
+        <option value="$PROJECT_DIR$/homework/20185227018.py" />
+        <option value="$PROJECT_DIR$/homework/client_control.py" />
+        <option value="$USER_HOME$/Desktop/高性能作业/2/20185227018node.py" />
+        <option value="$PROJECT_DIR$/homework/server_node.py" />
+        <option value="$PROJECT_DIR$/homework/test.py" />
+        <option value="$USER_HOME$/Desktop/control(1).py" />
+        <option value="$PROJECT_DIR$/homework/hosts.txt" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="486" />
+    <option name="y" value="54" />
+    <option name="width" value="1230" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/python/Automate the Boring Stuff with Python-Practical Programming for Total Beginners/working with excel spreadsheets" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test (2)">
+    <configuration name="control(1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/control(1).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="node(3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/node(3).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.control(1)" />
+        <item itemvalue="Python.node(3)" />
+        <item itemvalue="Python.test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="114b4a84-95ac-48a5-b161-845d6f73a697" name="Default Changelist" comment="" />
+      <created>1554812563431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554812563431</updated>
+      <workItem from="1554812564736" duration="2606000" />
+      <workItem from="1555075336861" duration="2101000" />
+      <workItem from="1555155189399" duration="178000" />
+      <workItem from="1555158914810" duration="3747000" />
+      <workItem from="1555240939451" duration="303000" />
+      <workItem from="1555249093330" duration="978000" />
+      <workItem from="1555325804391" duration="18000" />
+      <workItem from="1555508266784" duration="895000" />
+      <workItem from="1556361850784" duration="1278000" />
+      <workItem from="1556369754077" duration="2234000" />
+      <workItem from="1556709935848" duration="4307000" />
+      <workItem from="1556796626185" duration="6315000" />
+      <workItem from="1556880557293" duration="633000" />
+      <workItem from="1557058195878" duration="597000" />
+      <workItem from="1557125878800" duration="5825000" />
+      <workItem from="1557146804229" duration="1789000" />
+      <workItem from="1557149919937" duration="1421000" />
+      <workItem from="1557209443899" duration="9330000" />
+      <workItem from="1557276630093" duration="606000" />
+      <workItem from="1557400453959" duration="3596000" />
+      <workItem from="1557648584796" duration="11632000" />
+      <workItem from="1557820728440" duration="4932000" />
+      <workItem from="1557882000168" duration="5672000" />
+      <workItem from="1558265178983" duration="704000" />
+      <workItem from="1558322729475" duration="1474000" />
+      <workItem from="1558495212178" duration="923000" />
+      <workItem from="1558696074293" duration="1755000" />
+      <workItem from="1559044759584" duration="2575000" />
+      <workItem from="1559048933517" duration="621000" />
+      <workItem from="1559182216607" duration="616000" />
+      <workItem from="1559214426496" duration="6072000" />
+      <workItem from="1559306173485" duration="5115000" />
+      <workItem from="1559381656463" duration="1389000" />
+      <workItem from="1559387155615" duration="1878000" />
+      <workItem from="1559389101347" duration="3861000" />
+      <workItem from="1559473330516" duration="5497000" />
+      <workItem from="1559617601883" duration="930000" />
+      <workItem from="1559618594314" duration="1211000" />
+      <workItem from="1559693043552" duration="6277000" />
+      <workItem from="1559737284338" duration="778000" />
+      <workItem from="1559779512130" duration="12473000" />
+      <workItem from="1559865594928" duration="14884000" />
+      <workItem from="1560043548156" duration="1963000" />
+      <workItem from="1560097732767" duration="13000" />
+      <workItem from="1560259775829" duration="1697000" />
+      <workItem from="1560343162030" duration="4523000" />
+      <workItem from="1560516802856" duration="598000" />
+      <workItem from="1560561046167" duration="15285000" />
+      <workItem from="1560665437766" duration="12852000" />
+      <workItem from="1560737470106" duration="24133000" />
+      <workItem from="1560816097559" duration="19313000" />
+      <workItem from="1560845810747" duration="172000" />
+      <workItem from="1560846539878" duration="24861000" />
+      <workItem from="1560911787777" duration="1223000" />
+      <workItem from="1561000608660" duration="2087000" />
+      <workItem from="1561030375023" duration="2237000" />
+      <workItem from="1561087008248" duration="2156000" />
+      <workItem from="1569547584815" duration="2640000" />
+      <workItem from="1570243491212" duration="3989000" />
+      <workItem from="1570357091423" duration="624000" />
+      <workItem from="1570453386428" duration="696000" />
+      <workItem from="1570454654552" duration="1278000" />
+      <workItem from="1570532994109" duration="632000" />
+      <workItem from="1570586937528" duration="640000" />
+      <workItem from="1570605981135" duration="617000" />
+      <workItem from="1570668865492" duration="868000" />
+      <workItem from="1572568739625" duration="4307000" />
+      <workItem from="1572691843896" duration="464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_joint_test1_test_join - 2019.05.12 at 20h 36m 16s.xml">
+      <configuration name="pytest for joint_test1.test_join" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_joint_test1_py - 2019.05.12 at 20h 36m 59s.xml">
+      <configuration name="pytest in joint_test1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_joint_test1_py - 2019.05.12 at 20h 40m 21s.xml">
+      <configuration name="pytest in joint_test1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_thread_join1_py - 2019.05.12 at 20h 41m 28s.xml">
+      <configuration name="pytest in thread_join1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_jointtest1_py - 2019.05.12 at 20h 41m 57s.xml">
+      <configuration name="pytest in jointtest1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_py - 2019.05.12 at 20h 42m 21s.xml">
+      <configuration name="pytest in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_scroll_py - 2019.06.01 at 19h 01m 04s.xml">
+      <configuration name="pytest in test_scroll.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_scroll_py - 2019.06.01 at 19h 01m 23s.xml">
+      <configuration name="pytest in test_scroll.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_scroll_py - 2019.06.01 at 19h 01m 50s.xml">
+      <configuration name="pytest in test_scroll.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_scroll_py - 2019.06.01 at 19h 05m 20s.xml">
+      <configuration name="pytest in test_scroll.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="269894000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12958626" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34812286" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30716723" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.7798635" visible="true" weight="0.32943013" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="4" sideWeight="0.22013652" side_tool="true" visible="true" weight="0.32943013" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/user_nfo.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/respond_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/table_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/tree_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/datetime_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/myThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/pc.py" />
+    <entry file="file://$PROJECT_DIR$/thread_test/joint_test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="21" selection-start-line="12" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/exe_end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/screenshot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/prodcons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="32" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/lock_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/rlock_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/event_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/condition_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tkinter_test/lock_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/prodcons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/onethr.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person.pkl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket_test/example_server_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_test/queue_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket_test/20185227018.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/20185227018control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="28" column="31" lean-forward="true" selection-end-line="90" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/高性能作业/2/compute.py" />
+    <entry file="file://$USER_HOME$/Desktop/高性能作业/2/20185227018node.py" />
+    <entry file="file://$USER_HOME$/Desktop/node(3).py" />
+    <entry file="file://$USER_HOME$/Desktop/control(1).py" />
+    <entry file="file://$PROJECT_DIR$/area.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/20185227018node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" selection-start-line="5" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/client_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/hosts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/server_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/compute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/20185227018.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-end-line="155" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
